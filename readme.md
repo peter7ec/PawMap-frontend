@@ -1,4 +1,4 @@
-For the English version, please see [README.en.md](./README.en.md).
+For the English version, please see [README.en.md](./readme.en.md).
 
 # PawMap - Frontend
 
