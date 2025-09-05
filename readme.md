@@ -1,6 +1,8 @@
+For the English version, please see [README.en.md](./README.en.md).
+
 # PawMap - Frontend
 
-Üdv a PawMap projekt frontend repository-jában! A PawMap egy webalkalmazás, amely segít a kutyabarát helyek felfedezésében és megosztásában.
+Üdv a PawMap projekt frontend repository-jában! A PawMap egy webalkalmazás, amely segít a állatbarát helyek felfedezésében és megosztásában.
 
 **Élő oldal:** [**pawmap.eu**](https://pawmap.eu)
 
@@ -24,8 +26,8 @@ _Helyettesítsd ezt egy képernyőképpel a működő alkalmazásról:_
 
 ### Főbb funkciók
 
-- **Interaktív térkép:** Böngéssz a kutyabarát helyek között egy térképes felületen.
-- **Helyek hozzáadása:** Regisztrált felhasználóként új kutyabarát helyeket adhatsz hozzá a térképhez.
+- **Interaktív térkép:** Böngéssz a állatbarát helyek között egy térképes felületen.
+- **Helyek hozzáadása:** Regisztrált felhasználóként új állatbarát helyeket adhatsz hozzá a térképhez.
 - **Keresés és szűrés:** Keress helyekre név, kategória vagy város alapján.
 - **Felhasználói fiók:** Regisztráció és bejelentkezés a személyes funkciók eléréséhez.
 - **Reszponzív dizájn:** Az alkalmazás mobiltelefonon és asztali gépen is kényelmesen használható.
