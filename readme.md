@@ -1,7 +1,5 @@
 # PawMap - Frontend
 
- <!-- Helyettesítsd ezt egy logóval, ha van -->
-
 Üdv a PawMap projekt frontend repository-jában! A PawMap egy webalkalmazás, amely segít a kutyabarát helyek felfedezésében és megosztásában.
 
 **Élő oldal:** [**pawmap.eu**](https://pawmap.eu)
@@ -41,7 +39,7 @@ Ez a projekt a modern frontend technológiákra épül, hogy gyors és felhaszn�
 - **Nyelv:** [TypeScript](https://www.typescriptlang.org/)
 - **Stílusozás:** [Tailwind CSS](https://tailwindcss.com/)
 - **Komponens könyvtár:** [shadcn/ui](https://ui.shadcn.com/)
-- **Térkép:** Leaflet <!-- Válaszd ki, melyiket használod -->
+- **Térkép:** Leaflet
 - **API kommunikáció:** Egyedi, service-alapú API kezelő réteg
 
 ### Telepítés és futtatás
@@ -78,10 +76,4 @@ Kövesd az alábbi lépéseket a projekt helyi környezetben való futtatásáho
 
 A frontendhez tartozó backend (Express.js, Prisma, PostgreSQL) egy külön repository-ban található.
 
-[**PawMap Backend Repository**](https://github.com/peter7ec/PawMap-backend) <!-- Frissítsd a linket, ha már létezik -->
-
----
-
-```
-
-```
+[**PawMap Backend Repository**](https://github.com/peter7ec/PawMap-backend)
